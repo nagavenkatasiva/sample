@@ -4,7 +4,7 @@ sdf
 sd
 fsd
 fsd
-fs
+
 df
 sdf
 sdf
@@ -14,5 +14,4 @@ fs
 dfs
 df
 wert
-we
 tr
